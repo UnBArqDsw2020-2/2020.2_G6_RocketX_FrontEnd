@@ -1,6 +1,8 @@
+import Rockets from "./pages/Rockets";
+
 function App() {
   return (
-    <h1>RocketX Board</h1>
+    <Rockets></Rockets>
   );
 }
 
